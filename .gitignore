@@ -1,0 +1,8 @@
+uploads/
+downloads/
+.runtime-generated/
+.tmp-*/
+server.out.log
+server.err.log
+data-backup-*.zip
+.env
