@@ -6,3 +6,4 @@ server.out.log
 server.err.log
 data-backup-*.zip
 .env
+node_modules
